@@ -4,7 +4,7 @@ email: mgmt@kmeansbusiness.com
 url: https://kmeansbusiness.com
 description: "Landing page for the artist, k-means. k-means is a Brooklyn-based music producer, specializing in beatstrumentals influenced by jazz, hip hop, soul, and future funk. His primary instrument is the piano and has played in many ensembles ranging from pop, jazz, and hip hop. He also has deep vocal expertise, ranging from choral singing to r&b, pop, and rap."
 keywords: "music beats producer hip hop tech data piano vocals"
-skills: "producer - pianist - vocalist"
+skills: "pianist - vocalist - scientist"
 meta_author: Ning Kenny
 
 # Google webmaster tools
@@ -40,7 +40,7 @@ social:
   - title: instagram
     url: https://www.instagram.com/fykning/
   - title: twitter
-    url: https://twitter.com/kenny_ning
+    url: https://twitter.com/kmeansmusic
   
   
 # Build settings
